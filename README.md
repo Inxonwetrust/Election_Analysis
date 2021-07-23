@@ -10,7 +10,7 @@ The purpose of this project was to complete an election audit of a recent local 
 5. Determine the winner of the election based on popular vote. 
 
 ### The Data
-The data presented includes three columns: ballot ID, county, and candidate name. Through this data we were able to provide dictionaries to the data and define the votes for each candidate. After the votes were casted to determine the amount of votes for each candidate I wrote a code script that gathered a percentage of the votes. In most elections there needs to be a majority vote to win as well as satisfying the percentage minimum in order to win an election typically greater than 50%. After the script runs it was able to pick the winner based on the vote count of the participant.
+The data presented includes three columns: ballot ID, county, and candidate name. Through this data we were able to provide dictionaries to the data and define the votes for each candidate. After the votes were casted to determine the amount of votes for each candidate I wrote a code script that gathered a percentage of the votes. In most elections there needs to be a majority vote to win as well as satisfying the percentage minimum in order to win an election typically greater than 50%. After the script runs it was able to pick the winner based on the vote count of the participant as well as see the vote count by county.
 
 ## Election Audit Results
 
