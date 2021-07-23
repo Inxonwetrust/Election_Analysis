@@ -1,5 +1,5 @@
 # Election Analysis with Python
-Click here to view the Python file: [Election Analysis](https://github.com/Inxonwetrust/Election_Analysis/blob/main/PyPoll_Challenge.py)
+Click here to view the Python file: [Election Analysis](https://github.com/Inxonwetrust/Election_Analysis/blob/main/analysis/election_analysis.txt)
 
 ## Overview of Election Audit
 The purpose of this project was to complete an election audit of a recent local congressional election. The follow tasks included:
